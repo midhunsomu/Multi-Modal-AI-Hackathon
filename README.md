@@ -9,6 +9,9 @@ By integrating **audio**, **video**, and **textual data** (user comments), the s
 
 ---
 
+## Dataset
+https://drive.google.com/drive/folders/10UndQryUfE6xghCNM5s7Z3lfds4o1s72
+
 ##  Motivation
 
 Every second, thousands of live-streams generate massive volumes of unstructured data.  
